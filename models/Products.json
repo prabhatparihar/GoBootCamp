@@ -1,0 +1,15 @@
+{
+    "id" : "69282688e90b755ea3f78365",
+    "name":"very good shoes",
+    "description":"very good shoes for the price",
+    "basePrice":100,
+    "discount":10,
+    "category":["footwear","mens accessories", "casuals"],
+    "brand":"nike",
+    "quantity":100,
+    "images":["image1.jpg","image2.jpg","image3.jpg"],
+    "reviews":["69282688e90b755ea3f74345","69282688e90b755ea3f74346","69282688e90b755ea3f74347"],
+    "createdAt" : "2025-01-01T00:00:00.000Z",
+    "updatedAt" : "2025-01-01T00:00:00.000Z"
+
+}

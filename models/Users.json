@@ -1,0 +1,14 @@
+{
+    "id" : "69282688e90b755ea3f78365",
+    "name" : "Prabhat Singh ",
+    "email" : "Prabhat.parihar@rapido.bike",
+    "password" : "donottellanyone",
+    "mobile" : "7217746208",
+    "adresss":[{"address 1":"my home 1 "},{"address 2":"my home 1"},{"address 3":"my home 1"}],
+    "DOB": "26-05-1999",
+    "gender":"male",
+    "role":"admin/users",
+    "status":"active/inactive", 
+    "createdAt" : "2025-01-01T00:00:00.000Z",
+    "updatedAt" : "2025-01-01T00:00:00.000Z"
+}

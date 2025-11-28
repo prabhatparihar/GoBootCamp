@@ -1,0 +1,13 @@
+{
+    "id":"69282688e90b755ea3f78365",
+    "status":"pending/confirmed/shipped/delivered/cancelled",
+    "reason":"it will be used to store the fail transacriona and cancelled after payment done",
+    "dropLocation":"address 1",
+    "productId":"69282688e90b755ea3f78365",
+    "price":20,
+    "quantity":1,
+    "dateOfOrder":"2025-01-01T00:00:00.000Z",
+    "dateOfDelivery":"2025-01-01T00:00:00.000Z",
+    "userId":"69282688e90b755ea3f78365",
+    "createdAt" : "2025-01-01T00:00:00.000Z"
+}
